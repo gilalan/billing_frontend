@@ -1,0 +1,25 @@
+/* .main-footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+} */
+
+.main-footer a{
+    color: red;
+}
+
+.box-footer button {
+    margin-left: 5px;
+}
+
+.table-actions {
+    width: 150px;
+}
+
+.table-numeric-values {
+    width: 90px;
+}
+
+.table-status {
+    width: 125px;
+}
