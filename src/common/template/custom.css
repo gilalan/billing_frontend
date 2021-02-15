@@ -23,3 +23,8 @@
 .table-status {
     width: 125px;
 }
+
+.navbar-custom-menu .dropdown-menu .user-footer a{
+    border-radius: 5px;
+    border: 1px solid #bb2d2d;
+}
