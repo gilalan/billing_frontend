@@ -28,3 +28,7 @@
     border-radius: 5px;
     border: 1px solid #bb2d2d;
 }
+
+.pad-div-table {
+    padding: 0px 15px;
+}
